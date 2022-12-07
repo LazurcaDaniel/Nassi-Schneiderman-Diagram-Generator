@@ -1,0 +1,8 @@
+begin
+  ceapa=2
+cea1a=2
+if(cea1a>=1&&ceapa>1||ceapa==1)
+else if(ceapa==1)
+while(ceapa==4)
+for(i=3ton)
+end
