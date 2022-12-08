@@ -1,0 +1,28 @@
+[0]BEGIN
+[1]X=X+2
+[2]IF (X>2) DO
+[-1]{
+	PRINT
+[-2]}
+
+[3]ELSE
+{
+	PRINT
+}
+
+[4]WHILE(CONDITIE)
+{
+
+}
+
+[5]FOR ()
+{
+
+}
+
+[6]REPEAT
+{
+}
+UNTIL(CONDITIE)
+
+[7]END
