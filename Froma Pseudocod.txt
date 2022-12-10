@@ -1,6 +1,6 @@
 [0]BEGIN
 [1]X=X+2
-[2]IF (X>2) DO
+[2]IF (X>2) THEN
 [-1]{
 	PRINT
 [-2]}
@@ -10,7 +10,7 @@
 	PRINT
 }
 
-[4]WHILE(CONDITIE)
+[4]WHILE(CONDITIE)DO
 {
 
 }
