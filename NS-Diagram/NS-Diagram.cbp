@@ -36,6 +36,7 @@
 		<Unit filename="include/syntax.h" />
 		<Unit filename="src/main.cpp" />
 		<Unit filename="src/syntax.cpp" />
+		<Unit filename="trees.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

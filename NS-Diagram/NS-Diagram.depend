@@ -1,16 +1,21 @@
 # depslib dependency file v1.0
-1670183628 source:c:\users\daniel\desktop\codeblocks\ns-diagram\src\main.cpp
+1670701130 source:c:\users\daniel\desktop\codeblocks\ns-diagram\src\main.cpp
 	<cstring>
-	<stdio.h>
-	<stdlib.h>
 	<iostream>
 	<fstream>
-	"syntax.h"
+	"trees.h"
 
-1670150503 c:\users\daniel\desktop\codeblocks\ns-diagram\include\syntax.h
+1670184191 c:\users\daniel\desktop\codeblocks\ns-diagram\include\syntax.h
 	<bits/stdc++.h>
 	<queue>
 
 1670183649 source:c:\users\daniel\desktop\codeblocks\ns-diagram\src\syntax.cpp
 	"syntax.h"
+
+1670701281 c:\users\daniel\desktop\codeblocks\ns-diagram\include\trees.h
+	<iostream>
+	<cstring>
+
+1670701186 source:c:\users\daniel\desktop\codeblocks\ns-diagram\trees.cpp
+	"trees.h"
 
