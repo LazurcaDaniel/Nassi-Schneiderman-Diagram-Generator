@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1669823398 source:c:\users\diana\onedrive\facultate\anul i\introducere in programare\proiectu_mare\main.cpp
+	<iostream>
+	<graphics.h>
+
+1670766837 source:c:\users\diana\onedrive\facultate\anul i\introducere in programare\proiectu_mare\creare.cpp
+
+1670768171 c:\users\diana\onedrive\facultate\anul i\introducere in programare\proiectu_mare\nassi.h
+	<windef.h>
+	<cstring>
+	<iostream>
+
+1670768090 source:c:\users\diana\onedrive\facultate\anul i\introducere in programare\proiectu_mare\desenare.cpp
+	<graphics.h>
+	<iostream>
+	"nassi.h"
+	<queue>
+
+1670830495 source:c:\users\diana\onedrive\facultate\anul i\introducere in programare\proiectu_mare\menu.cpp
+	<iostream>
+	<graphics.h>
+	<fstream>
+	"nassi.h"
+
+1670767086 source:c:\users\diana\onedrive\facultate\anul i\introducere in programare\proiectu_mare\create_tree.cpp
+	"nassi.h"
+
+1670767098 source:c:\users\diana\onedrive\facultate\anul i\introducere in programare\proiectu_mare\read_tree.cpp
+	<cstring>
+	<iostream>
+	<fstream>
+	"nassi.h"
+
