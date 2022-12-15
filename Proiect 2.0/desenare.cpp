@@ -80,7 +80,7 @@ int desenFor(code* instr, int x, int y, int w)
 
     int lenghtFor = Desenare(instr, x + 20, y + INALTIME_TEXT, w - 20);
     cout<< lenghtFor;
-    setcolor(CYAN);
+    setcolor(RED);
     line(x, y, x, y + INALTIME_TEXT + lenghtFor);
     line(x + 20, y + INALTIME_TEXT, x + 20, y + lenghtFor);
     line(x, y + INALTIME_TEXT + lenghtFor, x + 20, y + INALTIME_TEXT + lenghtFor);
